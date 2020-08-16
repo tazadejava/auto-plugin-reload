@@ -6,4 +6,4 @@ Uses code from PlugMan to unload and reload plugins.
 
 # Usage
 
-Simply place the jar file into the server's plugins folder. A config will be created to optionally broadcast to the entire server whenever a plugin is loaded or reloaded.
+Simply download and place the jar file ([target/AutoPluginReload.jar](https://github.com/tazadejava/auto-plugin-reload/raw/master/target/AutoPluginReload.jar)) into the server's plugins folder. A config will be created to optionally broadcast to the entire server whenever a plugin is loaded or reloaded.
